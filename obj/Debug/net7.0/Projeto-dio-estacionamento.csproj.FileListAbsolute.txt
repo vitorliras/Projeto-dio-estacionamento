@@ -1,0 +1,15 @@
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\bin\Debug\net7.0\Projeto-dio-estacionamento.exe
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\bin\Debug\net7.0\Projeto-dio-estacionamento.deps.json
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\bin\Debug\net7.0\Projeto-dio-estacionamento.runtimeconfig.json
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\bin\Debug\net7.0\Projeto-dio-estacionamento.dll
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\bin\Debug\net7.0\Projeto-dio-estacionamento.pdb
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\obj\Debug\net7.0\Projeto-dio-estacionamento.csproj.AssemblyReference.cache
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\obj\Debug\net7.0\Projeto-dio-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\obj\Debug\net7.0\Projeto-dio-estacionamento.AssemblyInfoInputs.cache
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\obj\Debug\net7.0\Projeto-dio-estacionamento.AssemblyInfo.cs
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\obj\Debug\net7.0\Projeto-dio-estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\obj\Debug\net7.0\Projeto-dio-estacionamento.dll
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\obj\Debug\net7.0\refint\Projeto-dio-estacionamento.dll
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\obj\Debug\net7.0\Projeto-dio-estacionamento.pdb
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\obj\Debug\net7.0\Projeto-dio-estacionamento.genruntimeconfig.cache
+C:\Users\Vitor\OneDrive\Área de Trabalho\Projeto-dio-estacionamento\obj\Debug\net7.0\ref\Projeto-dio-estacionamento.dll

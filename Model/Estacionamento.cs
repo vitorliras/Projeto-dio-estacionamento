@@ -46,10 +46,16 @@ namespace Model
 
         public void ListarVeiculos()
         {
-            Console.WriteLine("Veículos estacionados:");
-            foreach (var veiculo in veiculosEstacionados)
+            if(veiculosEstacionados.Count() > 0)
             {
-                Console.WriteLine($"Placa: {veiculo.Placa} - Entrada: {veiculo.Entrada}");
+                Console.WriteLine("Veículos estacionados:");
+                foreach (var veiculo in veiculosEstacionados)
+                {
+                    Console.WriteLine($"Placa: {veiculo.Placa} - Entrada: {veiculo.Entrada}");
+                }
+            }else{
+                Console.WriteLine("Nenhum Veículo estacionado");
+
             }
         }
 
